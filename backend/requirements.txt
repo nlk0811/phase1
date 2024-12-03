@@ -1,0 +1,5 @@
+firebase-admin
+flask
+python-dotenv
+google-generativeai
+reportlab==3.6.12
